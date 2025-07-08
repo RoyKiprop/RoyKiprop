@@ -1,4 +1,4 @@
-# 👨‍🚀 Roy Kiprop — Code Commander of the Dev Galaxy 🚀
+# 👨‍🚀 Roy Kiprop 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Roy%20Kiprop&fontSize=40&fontAlignY=35&desc=Code%20That%20Changes%20Dimensions&descAlignY=60&descAlign=50)
 
