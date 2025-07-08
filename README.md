@@ -17,18 +17,16 @@
 
 ## 🚀 My Tech Stack
 
-**Languages:**
+**Frontend:**
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-- ![Elixir](https://img.shields.io/badge/-Elixir-black?style=flat-square&logo=elixir)
-- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
-**Frontend:**
 - ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 - ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
 - ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 **Backend & DevOps:**
+- ![Elixir](https://img.shields.io/badge/-Elixir-black?style=flat-square&logo=elixir)
+- ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 - ![Phoenix](https://img.shields.io/badge/-Phoenix-black?style=flat-square&logo=phoenix-framework)
 - ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
