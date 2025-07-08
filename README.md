@@ -56,7 +56,7 @@
 
 ## 📬 Let's Connect
 
-- 💼 [Portfolio](https://yourportfolio.example) *(add yours)*
+- 💼 [Portfolio](https://roykiprop.dev/)
 - 🐦 [Twitter](https://twitter.com/yourhandle)
 - 💌 Email me at `roykiprop590@gmail.com`
 - 💬 Always open to collaboration, mentorship, and a good meme.
