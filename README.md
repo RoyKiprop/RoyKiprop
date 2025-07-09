@@ -28,7 +28,6 @@
 - ![Elixir](https://img.shields.io/badge/-Elixir-black?style=flat-square&logo=elixir)
 - ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 - ![Phoenix](https://img.shields.io/badge/-Phoenix-black?style=flat-square&logo=phoenix-framework)
-- ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 - ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 - ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-black?style=flat-square&logo=github-actions)
